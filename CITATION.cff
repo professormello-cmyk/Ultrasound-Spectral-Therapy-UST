@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Ultrasound Spectral Therapy (UST): Toward a Safe and Selective Oncology Treatment"
+doi: "10.5281/zenodo.16888335"
+date-released: "2025-08-17"
+authors:
+  - family-names: Mello
+    given-names: Cesar
+    affiliation: Cosmo Physics Organization
+    email: cesar.mello@cosmophys.org
+  - family-names: Medina da Cunha
+    given-names: Fernando
+    affiliation: Centro de Oncologia Campinas

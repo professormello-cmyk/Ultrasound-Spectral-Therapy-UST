@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Data
+data/*.h5
+data/*.hdf5
+data/*.csv
+data/*.tsv
+!data/.gitkeep
+
+# Figures and outputs
+figures/*.png
+figures/*.pdf
+figures/*.svg
+
+# COMSOL
+simulations/*.mph
+!simulations/.gitkeep
